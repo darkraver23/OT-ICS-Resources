@@ -21,6 +21,16 @@ execution engine analyses the stir-version code searching for attack vectors tha
 exploited by a malicious actuator.​
         </td> 
     </tr>
+	<tr>
+    <td>
+      <a href="https://icscyberpro.net">ICS Cybersecurity Community (icsCyberpro.net)</a>
+    </td>
+    <td>
+      ICS Cybersecurity Community is a non-profit initiative dedicated to sharing real-world knowledge gained through hands-on experience and in-depth research. Every piece of content comes from verified experts who have worked directly with Industrial Control Systems (ICS) and Operational Technology (OT) security in practice. <br><br>
+      Built by passionate professionals, the community’s mission is simple: to strengthen knowledge, protect critical infrastructure, and empower industrial cyber defenders — not to generate profit from ads or paid courses. <br><br>
+      Whether you’re a practitioner, a researcher, or simply curious, this is a place to move beyond theory and understand how things truly work in the field.
+    </td>
+  </tr>
     <tr>
         <td>
             <a href="https://github.com/cisagov/cset" target="_blank">CSET</a>
