@@ -9,7 +9,7 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
    <tr>
     	<td>
-    		  <a href="https://icscyberpro.net" target="_blank">ICS Cybersecurity Community — icsCyberpro.net</a>
+    		  <a href="https://icscyberpro.net" >ICS Cybersecurity Community — icsCyberpro.net</a>
     	</td>
     <td>
     	  ICS Cybersecurity Community is a non-profit initiative dedicated to sharing real-world knowledge gained through hands-on experience and in-depth research. Every piece of content comes from verified experts who have worked directly with Industrial Control 				Systems (ICS) and Operational Technology (OT) security in practice.  
@@ -19,7 +19,7 @@ Feel free to [contribute](CONTRIBUTING.md).
   </tr>
   <tr>
 		<td>
-		  <a href="https://gitlab.com/jhcastel/attkfinder" target="_blank">AttkFinder</a>
+		  <a href="https://gitlab.com/jhcastel/attkfinder">AttkFinder</a>
 		</td>
 		<td>
 		  AttkFinder is a tool that performs static program analysis of PLC programs and produces data-oriented attack vectors. It builds Data-Flow graphs (DFG), Control-Flow graphs (CFG), and translates PLC code into a Structured Intermediate Representation 						Language (STIR). A symbolic execution engine then searches for attack vectors that could be exploited by a malicious actuator.
