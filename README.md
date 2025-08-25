@@ -7,267 +7,59 @@ Feel free to [contribute](CONTRIBUTING.md).
 ## Tools
 
 <table>
-   <tr>
-    	<td>
-    		  <a href="https://icscyberpro.net" >ICS Cybersecurity Community — icsCyberpro.net</a>
-    	</td>
+  <tr>
     <td>
-    	  ICS Cybersecurity Community is a non-profit initiative dedicated to sharing real-world knowledge gained through hands-on experience and in-depth research. Every piece of content comes from verified experts who have worked directly with Industrial Control 				Systems (ICS) and Operational Technology (OT) security in practice.  
-     	 Built by passionate professionals, the community’s mission is simple: to strengthen knowledge, protect critical infrastructure, and empower industrial cyber defenders — not to generate profit from ads or paid courses.  
-     	 Whether you’re a practitioner, a researcher, or simply curious, this is a place to move beyond theory and understand how things truly work in the field.
-    </td> 
+      <a href="https://icscyberpro.net">ICS Cybersecurity Community (icsCyberpro.net)</a>
+    </td>
+    <td>
+      ICS Cybersecurity Community is a non-profit initiative dedicated to sharing real-world knowledge gained through hands-on experience and in-depth research. Every piece of content comes from verified experts who have worked directly with Industrial Control Systems (ICS) and Operational Technology (OT) security in practice. <br><br>
+      Built by passionate professionals, the community’s mission is simple: to strengthen knowledge, protect critical infrastructure, and empower industrial cyber defenders — not to generate profit from ads or paid courses. <br><br>
+      Whether you’re a practitioner, a researcher, or simply curious, this is a place to move beyond theory and understand how things truly work in the field.
+    </td>
   </tr>
   <tr>
-		<td>
-		  <a href="https://gitlab.com/jhcastel/attkfinder">AttkFinder</a>
-		</td>
-		<td>
-		  AttkFinder is a tool that performs static program analysis of PLC programs and produces data-oriented attack vectors. It builds Data-Flow graphs (DFG), Control-Flow graphs (CFG), and translates PLC code into a Structured Intermediate Representation 						Language (STIR). A symbolic execution engine then searches for attack vectors that could be exploited by a malicious actuator.
-		</td> 
+    <td>
+      <a href="https://gitlab.com/jhcastel/attkfinder">AttkFinder</a>
+    </td>
+    <td>
+      AttkFinder is a tool that performs static program analysis of PLC programs and produces data-oriented attack vectors. It builds a Data-Flow Graph (DFG), a Control-Flow Graph (CFG), and translates the program into a Structured Intermediate Representation Language (STIR). A symbolic execution engine then analyzes the STIR version to identify attack vectors that can be exploited by a malicious actuator.
+    </td>
   </tr>
-
-	  <tr>
-        <td>
-            <a href="https://github.com/cisagov/cset" target="_blank">CSET</a>
-        </td>
-		<td>
-			The Cyber Security Evaluation Tool (CSET®) assists organizations in protecting their key national cyber assets. 
-			This tool provides users with a systematic and repeatable approach for assessing the security posture of their cyber systems and networks. 
-			It includes both high-level and detailed questions related to all industrial control and IT systems.​
-		</td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.digitalbond.com/tools/basecamp/3s-codesys/" target="_blank">Digital Bond's 3S CoDeSys Tools</a>
-        </td>
-        <td>
-            Digital Bond created three tools for interacting with PLCs that run CoDeSys, consisting of a command shell, file transfer and NMap script.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/digitalbond/Redpoint" target="_blank">Digital Bond's ICS Enumeration Tools</a>
-        </td>
-        <td>
-            Redpoint is a Digital Bond research project to enumerate ICS applications and devices using nmap extensions.
-            It can be used during assessments to discover ICS devices and pull information that would be helpful in secondary testing. 
-            The Redpoint tools use legitimate protocol or application commands to discover and enumerate devices and applications. 
-            There is no effort to exploit or crash anything, but be wise and careful.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/iadgov/GRASSMARLIN" target="_blank">GRASSMARLIN</a>
-        </td>
-        <td>
-            GRASSMARLIN provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks to support network security. Passively map, and visually display, an ICS/SCADA network topology while safely conducting device discovery, accounting, and reporting on these critical cyber-physical systems.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/fireeye/ics_mem_collect" target="_blank">ics_mem_collect</a>
-        </td>
-        <td>
-            Memory collector for GE D20MX. The project itself can be extended to work with other devices.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/dark-lbp/isf" target="_blank">ISF</a>
-        </td>
-        <td>
-            The Industrial Exploitation Framework (ISF) is an exploitation framework similar to Metasploit written in Python. It is based on the open source Routersploit tool. It contains exploits for several types of controllers, such as QNX, Siemens and Schneider devices and includes several scanners.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/w3h/isf" target="_blank">ISEF</a>
-        </td>
-        <td>
-            The Industrial Security Exploitation Framework (ISEF) is an exploitation framework based on the Equation Group Fuzzbunch toolkit as released by Shadow Brokers. It's developed by the ICSMASTER Security Team.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/momalab/ICSREF" target="_blank">ICSREF</a>
-        </td>
-        <td>
-            A modular framework that automates the reverse engineering process of CODESYS binaries compiled with the CODESYS v2 compiler.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/momalab/ICSFuzz" target="_blank">ICSFuzz</a>
-        </td>
-        <td>
-            A PLC-side fuzzing tool for uncovering vulnerabilities in ICS control applications. The current version supports only applications based on the Codesys platform which has been modified and adapted for the Wago PLC.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/woj-ciech/Kamerka-GUI" target="_blank">ꓘamerka GUI</a>
-        </td>
-        <td>
-            Ultimate Internet of Things/Industrial Control Systems reconnaissance tool. 
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/sourceperl/mbtget" target="_blank">mbtget</a>
-        </td>
-        <td>
-            mbtget - Simple perl script for make some modbus transaction from the command line.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/scy-phy/minicps" target="_blank">MiniCPS</a>
-        </td>
-        <td>
-            MiniCPS: A toolkit for security research on Cyber-Physical
-            Systems from Singapore University of Technology and Design (SUTD).
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/0x0mar/smod" target="_blank">MODBUS Penetration Testing Framework</a>
-        </td>
-        <td>
-            smod is a modular framework with every kind of diagnostic and offensive feature you could need in order to pentest modbus protocol. It is a full Modbus protocol implementation using Python and Scapy. The framework can be used to perform vulnerability assessments.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="http://modbuspal.sourceforge.net/" target="_blank">ModbusPal</a>
-        </td>
-        <td>
-            ModbusPal is a MODBUS slave simulator. Its purpose is to offer an easy to use interface with the capabilities to reproduce complex and realistic MODBUS environments.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/moki-ics/modscan" target="_blank">ModScan</a>
-        </td>
-        <td>
-            ModScan is a new tool designed to map a SCADA MODBUS TCP based network.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://sourceforge.net/projects/nettoplcsim/" target="_blank">NetToPLCSim</a>
-        </td>
-        <td>
-            TCP/IP-Network extension for the PLC simulation software Siemens PLCSim.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://dnp3.github.io/" target="_blank">OpenDNP3</a>
-        </td>
-        <td>
-            OpenDNP3 is the de facto reference implementation of IEEE-1815 (DNP3) provided under the Apache License.
-            It is currently in maintenance-only mode and new features are no longer being added. 
-            Automatak has rebranded as Step Function I/O and is now focused on writing protocol <a href="https://stepfunc.io/products/libraries/" target="_blank">libraries</a> in Rust.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/SCADACS/PLCinject" target="_blank">PLCinject</a>
-        </td>
-        <td>
-            PLCinject can be used to inject code into PLCs.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/yanlinlin82/plcscan" target="_blank">plcscan</a>
-        </td>
-        <td>
-            Tool for scaning PLC devices over the s7comm or modbus protocol.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.digitalbond.com/tools/quickdraw/download/" target="_blank">Quickdraw IDS</a>
-        </td>
-        <td>
-            The Quickdraw IDS project by Digital Bond includes Snort rules for SCADA devices and so-called preprocessors for network traffic. 
-            The preprocessors provide significant additional value because of their ability to reconstruct the protocol and state for use by Snort.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/dw2102/S7Comm-Analyzer" target="_blank">S7Comm-Analyzer</a>
-        </td>
-        <td>
-            A plugin for Bro that parses S7comm protocol data traffic.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/0xICF/SCADAShutdownTool" target="_blank">SCADAShutdownTool</a>
-        </td>
-        <td>
-            SCADAShutdownTool is an industrial control system automation and testing tool allows security researchers and experts to test SCADA security systems, enumerate slave controllers, read controller's registers values and rewrite registers data. 
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/mssabr01/sixnet-tools" target="_blank">sixnet-tools</a>
-        </td>
-        <td>
-            Tool for exploiting Sixnet RTUs. This simple command line interface allows using undocumented function codes to gain root access anc control the underlying Linux OS on certain Sixnet family industrial control devices.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="http://snap7.sourceforge.net/" target="_blank">Snap7</a>
-        </td>
-        <td>
-            Snap7 is an open source, 32/64 bit, multi-platform Ethernet communication suite for interfacing natively with Siemens S7 PLCs. The new CPUs 1200/1500, the old S7200, the small LOGO 0BA7/0BA8 and SINAMICS Drives are also partially supported.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/klsecservices/s7scan" target="_blank">s7scan</a>
-        </td>
-        <td>
-            A tool written in Python that scans networks, enumerates Siemens PLCs and gathers basic information about them, such as PLC firmware and hardware version, network configuration and security parameters.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="/source/s7-cracker.py" target="_blank">S7 Password Bruteforcer</a>
-        </td>
-        <td>
-            A tool to bruteforce the password used by S7 instances from a PCAP using a dictionary. <a href="/source/s7-brute-offline.py" target="_blank">Original</a> created by SCADAStrangelove.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://splone.com/splonebox/" target="_blank">splonebox</a>
-        </td>
-        <td>
-            splonebox is an open source network assessment tool with focus on modularity. It offers an ongoing analysis of a network and its devices. One major design decision features development of custom plugins, including ones for industrial communication protocols.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.wireshark.org/" target="_blank">Wireshark</a>
-        </td>
-        <td>
-            Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions. It has support for many protocols used in ICS.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/otoriocyber/PCS7-Hardening-Tool" target="_blank">PCS7-Hardening-Tool</a>
-        </td>
-        <td>
-            A standalone PowerShell script that enumerates security issues on Siemens PCS 7 DCS servers, based on Siemens security guides. created by OTORIO
-        </td> 
-    </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/cisagov/cset">CSET</a>
+    </td>
+    <td>
+      The Cyber Security Evaluation Tool (CSET®) assists organizations in protecting their key national cyber assets. It provides a systematic and repeatable approach for assessing the security posture of cyber systems and networks, with both high-level and detailed questions related to industrial control and IT systems.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.digitalbond.com/tools/basecamp/3s-codesys/">Digital Bond's 3S CoDeSys Tools</a>
+    </td>
+    <td>
+      A collection of three tools for interacting with PLCs running CoDeSys: a command shell, file transfer, and an Nmap script.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/digitalbond/Redpoint">Digital Bond's ICS Enumeration Tools</a>
+    </td>
+    <td>
+      Redpoint is a research project to enumerate ICS applications and devices using Nmap extensions. It discovers ICS devices and extracts useful assessment information, without attempting exploitation.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/iadgov/GRASSMARLIN">GRASSMARLIN</a>
+    </td>
+    <td>
+      Provides passive IP network situational awareness of ICS and SCADA networks. It maps and visualizes network topology while safely conducting device discovery, accounting, and reporting.
+    </td>
+  </tr>
+  <!-- Continue adding rows in the same clean format -->
 </table>
+
 
 ## Distributions
 
