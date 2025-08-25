@@ -8,35 +8,33 @@ Feel free to [contribute](CONTRIBUTING.md).
 
 <table>
    <tr>
+    	<td>
+    		  <a href="https://icscyberpro.net" target="_blank">ICS Cybersecurity Community — icsCyberpro.net</a>
+    	</td>
     <td>
-      <a href="https://icscyberpro.net" target="_blank">ICS Cybersecurity Community — icsCyberpro.net</a>
-    </td>
-    <td>
-      ICS Cybersecurity Community is a non-profit initiative dedicated to sharing real-world knowledge gained through hands-on experience and in-depth research. Every piece of content comes from verified experts who have worked directly with Industrial Control Systems (ICS) and Operational Technology (OT) security in practice.  
-      Built by passionate professionals, the community’s mission is simple: to strengthen knowledge, protect critical infrastructure, and empower industrial cyber defenders — not to generate profit from ads or paid courses.  
-      Whether you’re a practitioner, a researcher, or simply curious, this is a place to move beyond theory and understand how things truly work in the field.
+    	  ICS Cybersecurity Community is a non-profit initiative dedicated to sharing real-world knowledge gained through hands-on experience and in-depth research. Every piece of content comes from verified experts who have worked directly with Industrial Control 				Systems (ICS) and Operational Technology (OT) security in practice.  
+     	 Built by passionate professionals, the community’s mission is simple: to strengthen knowledge, protect critical infrastructure, and empower industrial cyber defenders — not to generate profit from ads or paid courses.  
+     	 Whether you’re a practitioner, a researcher, or simply curious, this is a place to move beyond theory and understand how things truly work in the field.
     </td> 
   </tr>
-
   <tr>
-    <td>
-      <a href="https://gitlab.com/jhcastel/attkfinder" target="_blank">AttkFinder</a>
-    </td>
-    <td>
-      AttkFinder is a tool that performs static program analysis of PLC programs and produces data-oriented attack vectors. It builds Data-Flow graphs (DFG), Control-Flow graphs (CFG), and translates PLC code into a Structured Intermediate Representation Language (STIR). A symbolic execution engine then searches for attack vectors that could be exploited by a malicious actuator.
-    </td> 
+		<td>
+		  <a href="https://gitlab.com/jhcastel/attkfinder" target="_blank">AttkFinder</a>
+		</td>
+		<td>
+		  AttkFinder is a tool that performs static program analysis of PLC programs and produces data-oriented attack vectors. It builds Data-Flow graphs (DFG), Control-Flow graphs (CFG), and translates PLC code into a Structured Intermediate Representation 						Language (STIR). A symbolic execution engine then searches for attack vectors that could be exploited by a malicious actuator.
+		</td> 
   </tr>
 
-	
-    <tr>
+	  <tr>
         <td>
             <a href="https://github.com/cisagov/cset" target="_blank">CSET</a>
         </td>
-        <td>
-            The Cyber Security Evaluation Tool (CSET®) assists organizations in protecting their key national cyber assets. 
-            This tool provides users with a systematic and repeatable approach for assessing the security posture of their cyber systems and networks. 
-            It includes both high-level and detailed questions related to all industrial control and IT systems.​
-        </td> 
+		<td>
+			The Cyber Security Evaluation Tool (CSET®) assists organizations in protecting their key national cyber assets. 
+			This tool provides users with a systematic and repeatable approach for assessing the security posture of their cyber systems and networks. 
+			It includes both high-level and detailed questions related to all industrial control and IT systems.​
+		</td> 
     </tr>
     <tr>
         <td>
