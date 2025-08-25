@@ -8,33 +8,18 @@ Feel free to [contribute](CONTRIBUTING.md).
 
 <table>
 
-  <tr>
-        <td>
-            <a href="https://icscyberpro.net" target="_blank">ICS Cybersecurity Community <br/> icsCyberpro.net </a>
-        </td>
-        <td>
-           <b>ICS Cybersecurity Community</b> is a non-profit initiative dedicated to sharing real-world knowledge gained through hands-on experience and in-depth research. Every piece of content comes from verified experts who have worked directly with Industrial Control Systems (ICS) and Operational Technology (OT) security in practice.<br/>
 
-Built by passionate professionals, the community’s mission is simple: to strengthen knowledge, protect critical infrastructure, and empower industrial cyber defenders—not to generate profit from ads or paid courses.<br/>
-
-Whether you’re a practitioner, a researcher, or simply curious, this is a place to move beyond theory and understand how things truly work in the field.
-        </td> 
-    </tr>
  
     <tr>
         <td>
             <a href="https://gitlab.com/jhcastel/attkfinder" target="_blank">AttkFinder</a>
         </td>
         <td>
-            AttkFinder is a tool that performs static program analysis of PLC programs, and
-produce Data-oriented Attack vectors. In a nutshell, AttkFinder takes PLC programs written
-under the standard IEC-61131-3 in xml-format or structured text,
-and builds a Data-Flow graph (DFG), a Control-Flow graph (CFG) and translates the program
-into a Structured Intermediate Representation Language (STIR) version. A symbolic
-execution engine analyses the stir-version code searching for attack vectors that can be
-exploited by a malicious actuator.​
-        </td> 
+			AttkFinder is a tool that performs static program analysis of PLC programs, and produce Data-oriented Attack vectors. In a nutshell, AttkFinder takes PLC programs written under the standard IEC-61131-3 in xml-format or structured text, and builds a Data-				Flow graph (DFG), a Control-Flow graph (CFG) and translates the program into a Structured Intermediate Representation Language (STIR) version. A symbolic execution engine analyses the stir-version code searching for attack vectors that can be exploited by a 			malicious actuator.​ 
+		</td> 
     </tr>
+	
+	
     <tr>
         <td>
             <a href="https://github.com/cisagov/cset" target="_blank">CSET</a>
