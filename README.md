@@ -10,7 +10,7 @@ Feel free to [contribute](CONTRIBUTING.md).
 
   <tr>
         <td>
-            <a href="https://icscyberpro.net" target="_blank">ICS Cybersecurity Community</a>
+            <a href="https://icscyberpro.net" target="_blank">ICS Cybersecurity Community <br/> icsCyberpro.net </a>
         </td>
         <td>
            <b>ICS Cybersecurity Community</b> is a non-profit initiative dedicated to sharing real-world knowledge gained through hands-on experience and in-depth research. Every piece of content comes from verified experts who have worked directly with Industrial Control Systems (ICS) and Operational Technology (OT) security in practice.<br/>
