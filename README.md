@@ -18,7 +18,7 @@ under the standard IEC-61131-3 in xml-format or structured text,
 and builds a Data-Flow graph (DFG), a Control-Flow graph (CFG) and translates the program
 into a Structured Intermediate Representation Language (STIR) version. A symbolic
 execution engine analyses the stir-version code searching for attack vectors that can be
-exploited by a malicious actuator.​
+exploited by a malicious actuator. 
         </td> 
     </tr>
 	<tr>
