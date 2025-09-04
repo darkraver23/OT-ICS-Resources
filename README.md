@@ -57,7 +57,7 @@ exploited by a malicious actuator.
             Redpoint is a Digital Bond research project to enumerate ICS applications and devices using nmap extensions.
             It can be used during assessments to discover ICS devices and pull information that would be helpful in secondary testing. 
             The Redpoint tools use legitimate protocol or application commands to discover and enumerate devices and applications. 
-            There is no effort to exploit or crash anything, but be wise and careful.
+            There is no effort to exploit or crash anything, but be wise and careful
         </td> 
     </tr>
     <tr>
