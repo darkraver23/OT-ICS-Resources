@@ -1,4 +1,4 @@
-# awesome-industrial-control-system-security
+# Awesome Industrial Control System Security
 A curated list of resources related to Industrial Control System (ICS) security.
 
 Feel free to [contribute](CONTRIBUTING.md).
