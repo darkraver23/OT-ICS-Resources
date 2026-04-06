@@ -1,10 +1,10 @@
-# Awesome Industrial Control System Security  
-A curated list of resources related to Industrial Control System (ICS) security
+# Awesome Industrial Control System Security
+A curated list of resources related to Industrial Control System (ICS) security  
 
 Feel free to [contribute](CONTRIBUTING.md).  
 
 
-## Tools
+## Tools  
 
 <table>
     <tr>
@@ -14,8 +14,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>
             AttkFinder is a tool that performs static program analysis of PLC programs, and produce Data-oriented Attack vectors. In a nutshell, AttkFinder takes PLC programs written
 under the standard IEC-61131-3 in xml-format or structured text, and builds a Data-Flow graph (DFG), a Control-Flow graph (CFG) and translates the program
-into a Structured Intermediate Representation Language (STIR) version. A symbolic
-execution engine analyses the stir-version code searching for attack vectors that can be
+into a Structured Intermediate Representation Language (STIR) version. A symbolic execution engine analyses the stir-version code searching for attack vectors that can be
 exploited by a malicious actuator. 
         </td> 
     </tr>
@@ -36,7 +35,7 @@ exploited by a malicious actuator.
         <td>
             The Cyber Security Evaluation Tool (CSET®) assists organizations in protecting their key national cyber assets. 
             This tool provides users with a systematic and repeatable approach for assessing the security posture of their cyber systems and networks. 
-            It includes both high-level and detailed questions related to all industrial control and IT systems.​
+            It includes both high-level and detailed questions related to all industrial control and IT systems.​ 
         </td> 
     </tr>
     <tr>
